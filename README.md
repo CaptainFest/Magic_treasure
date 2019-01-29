@@ -1,5 +1,6 @@
 # Magic_treasure
 
+## Task
 In a far away country, a magic treasure is hidden in a labyrinth surrounded by magic walls, which is, in
 turn, lost in jungles. Centuries ago, mighty magicians and wealthy dictators tried to take the treasure
 away, but the labyrinth resisted. The treasure still waits for someone really powerful and clever to come.<br>
@@ -19,5 +20,5 @@ one click of the remote controller you can activate the artifact and get to know
  • if outside the labyrinth: the distance to the closest outer wall of the labyrinth, in meters.<br>
  • if inside the labyrinth: the length of the shortest path to the treasure, avoiding the cubic blocks.<br>
 Unfortunately, the artifact does not know that it is activated in the air, and returns the distance to
-the treasure as if it fell down and lies on the ground. That’s how magic works, you know.
+the treasure as if it fell down and lies on the ground. That’s how magic works, you know.<br>
 Find the treasure!
