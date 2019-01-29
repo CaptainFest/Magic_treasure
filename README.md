@@ -16,7 +16,7 @@ You now reside in a tiny village somewhere near the labyrinth. You are equipped 
 that can fly 10 kilometers horizontally away from your location, and can, of course, fly high enough to
 surpass the magic walls. The ancient artifact is now mounted at the bottom of the quadcopter, and at
 one click of the remote controller you can activate the artifact and get to know:<br>
- • if outside the labyrinth: the distance to the closest outer wall of the labyrinth, in meters.
+ • if outside the labyrinth: the distance to the closest outer wall of the labyrinth, in meters.<br>
  • if inside the labyrinth: the length of the shortest path to the treasure, avoiding the cubic blocks.<br>
 Unfortunately, the artifact does not know that it is activated in the air, and returns the distance to
 the treasure as if it fell down and lies on the ground. That’s how magic works, you know.
