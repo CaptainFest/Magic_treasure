@@ -22,3 +22,7 @@ one click of the remote controller you can activate the artifact and get to know
 Unfortunately, the artifact does not know that it is activated in the air, and returns the distance to
 the treasure as if it fell down and lies on the ground. That’s how magic works, you know.<br>
 Find the treasure!
+
+## Output
+
+## Input
